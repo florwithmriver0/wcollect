@@ -10,3 +10,11 @@ that can be edited and changed to you're liking.
 ```
 pip install requests
 ```
+
+# 📖 Instructions
+Simply install the dependencies, and run ```python``` or ```python3``` (depending on the version of python),
+followed by wcollect.py
+
+> [!TIP]
+> Weather Metro, the API that is selected by default may not be accurate to your IP geolocation,
+> therefore make sure to have the correct geolocation IP to get proper weather DATA.
